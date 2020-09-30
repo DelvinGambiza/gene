@@ -1,0 +1,46 @@
+@model geneInsure.Models.Transaction    
+    
+@{    
+    ViewData["Title"] = "Details";    
+}    
+<h2>Details</h2>    
+<div>    
+    <h4s<>Transactions/h4>    
+    <hr />    
+    <dl class="dl-horizontal">    
+        <dt>    
+            @Html.DisplayNameFor(model => model.certificateNumber)    
+        </dt>    
+        <dd>    
+            @Html.DisplayFor(model => model.certificateNumber)    
+        </dd>    
+        <dt>    
+            @Html.DisplayNameFor(model => model.branchCode)    
+        </dt>    
+        <dd>    
+            @Html.DisplayFor(model => model.branchCode)    
+        </dd>    
+        <dt>    
+            @Html.DisplayNameFor(model => model.customerName)    
+        </dt>    
+        <dd>    
+            @Html.DisplayFor(model => model.customerName)    
+        </dd>    
+        <dt>    
+            @Html.DisplayNameFor(model => model.customerEmail)    
+        </dt>    
+        <dd>    
+            @Html.DisplayFor(model => model.customerEmail)    
+        </dd>
+        <dt>    
+            @Html.DisplayNameFor(model => model.customerContactNumber)    
+        </dt>    
+        <dd>    
+            @Html.DisplayFor(model => model.customerContactNumber)    
+        </dd>    
+    </dl>    
+</div>    
+<div>    
+    <a asp-action="Edit" asp-route-id="@Model.certificateNumber">Edit</a> |    
+    <a asp-action="Index">Back to List</a>    
+</div>   

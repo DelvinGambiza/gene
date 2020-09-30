@@ -1,0 +1,7 @@
+C:\Users\gambi\geneInsure\obj\Debug\netcoreapp3.1\geneInsure.csprojAssemblyReference.cache
+C:\Users\gambi\geneInsure\obj\Debug\netcoreapp3.1\geneInsure.AssemblyInfoInputs.cache
+C:\Users\gambi\geneInsure\obj\Debug\netcoreapp3.1\geneInsure.AssemblyInfo.cs
+C:\Users\gambi\geneInsure\obj\Debug\netcoreapp3.1\geneInsure.csproj.CoreCompileInputs.cache
+C:\Users\gambi\geneInsure\obj\Debug\netcoreapp3.1\geneInsure.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gambi\geneInsure\obj\Debug\netcoreapp3.1\geneInsure.RazorAssemblyInfo.cache
+C:\Users\gambi\geneInsure\obj\Debug\netcoreapp3.1\geneInsure.RazorAssemblyInfo.cs
